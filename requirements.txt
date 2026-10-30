@@ -1,0 +1,7 @@
+# Unpinned research dependencies; exact experimental versions not recorded
+numpy
+scipy
+matplotlib
+soundfile
+pyroomacoustics
+jupyter

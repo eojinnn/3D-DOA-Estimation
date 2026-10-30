@@ -1,0 +1,28 @@
+# Python and notebook generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# Local results, caches, and model artifacts
+outputs/
+results/
+cache/
+checkpoints/
+*.npy
+*.npz
+*.pth
+*.pt
+*.ckpt
+*.log
+
+# Local credentials; keep existing Bellhop .env example files in archive
+/.env
+/.env.local
+/.env.*.local
+
+# OS / IDE generated files
+.DS_Store
+Thumbs.db
